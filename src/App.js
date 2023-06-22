@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+<<<<<<< HEAD
 import './App.css';
 
 function App() {
@@ -19,6 +20,17 @@ function App() {
         </a>
       </header>
     </div>
+=======
+import React from 'react';
+import './App.css';
+import FlightApp from './components/FlightApp';
+
+function App() {
+  return (
+    <React.Fragment>
+      <FlightApp/>
+    </React.Fragment>
+>>>>>>> ec0faef (flight search option)
   );
 }
 
