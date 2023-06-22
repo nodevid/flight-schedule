@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+>>>>>>> ec0faef (flight search option)
 .App {
   text-align: center;
 }
